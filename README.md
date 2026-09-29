@@ -21,11 +21,11 @@ Technical Program Manager at Apple who builds iOS apps and AI infrastructure on 
 
 ## 🧰 Tech stack
 
-**Languages:** Swift · Python · TypeScript
-**Apple:** SwiftUI · StoreKit 2 · MVVM · macOS apps
-**Backend & AI:** Firebase · REST APIs · Claude API · LLM cost optimization
-**Web:** Astro · Cloudflare
-**Data:** Tableau
+- **Languages:** Swift · Python · TypeScript
+- **Apple:** SwiftUI · StoreKit 2 · MVVM · macOS apps
+- **Backend & AI:** Firebase · REST APIs · Claude API · LLM cost optimization
+- **Web:** Astro · Cloudflare
+- **Data:** Tableau
 
 ## 📫 Contact
 
