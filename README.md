@@ -13,6 +13,7 @@ Technical Program Manager at Apple who builds iOS apps and AI infrastructure on 
 | Project | What it is | Stack |
 |---|---|---|
 | [**Chi**](https://nathankashwah.com/work) | AI therapy app, live on the App Store. Co-founded and built end-to-end. | SwiftUI · Firebase · Claude API · StoreKit 2 |
+| [**Skrich**](https://nathankashwah.com/work) | Travel and exploration app, in development. The map starts covered in fog and clears as you explore, while the app tracks lifetime distance, steps, cities, countries, and continents. | SwiftUI · MapKit · Core Location · Firebase |
 | [**nathankashwah.com**](https://github.com/nkashwah/Nathankashwah-site) | My personal site and blog | Astro · Cloudflare Workers |
 
 **Recent writing**
